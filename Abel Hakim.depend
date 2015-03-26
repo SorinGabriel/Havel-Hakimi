@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1427054503 source:e:\work\abel hakim\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<utility>
+
